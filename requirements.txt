@@ -1,0 +1,5 @@
+haystack-ai
+pymed
+gradio
+python-dotenv
+transformers
